@@ -6,3 +6,16 @@ pandas
 numpy
 matplotlib
 selenium
+
+# Trustee
+trustee==1.1.4
+graphviz
+poppler-utils
+jedi
+pdf2image
+scipy
+
+# Get my own models
+sshfs
+torch
+git+ssh://git@gitlab.ethz.ch/nsg/employees/adietmue/projects/python-experiment-helpers.git#egg=experiment_helpers
